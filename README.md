@@ -1,3 +1,7 @@
+**This is home value data for the hot Nashville market.** There are 56,000+ rows altogether. 
+
+
+
 # Nashville-Housing-Data-Cleaning-Project-using-PostgreSQL
 
  SELECT *
