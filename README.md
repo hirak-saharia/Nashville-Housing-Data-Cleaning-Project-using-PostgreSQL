@@ -2,7 +2,7 @@
 
 
 
-# Nashville-Housing-Data-Cleaning-Project-using-PostgreSQL
+# Nashville-Housing-Data-Cleaning-Project-using-SQL Server Management Studio
 
  SELECT *
 FROM NashvilleProject..NashvilleHousing
